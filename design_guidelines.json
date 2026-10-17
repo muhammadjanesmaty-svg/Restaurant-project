@@ -1,0 +1,400 @@
+{
+  "project_name": "SECAFE SEKAPARK - Waterfront Luxury Lounge & Cafe",
+  "brand_identity": {
+    "name": "SECAFE SEKAPARK",
+    "location": "Kozluk, Oramiral Salim Dervişoğlu Cd. No:24, Sekapark, 41200 İzmit/Kocaeli, Turkey",
+    "phone": "0530 642 11 85",
+    "plus_code": "8HQ9+XG İzmit, Kocaeli",
+    "hours": "24/7 Kesintisiz Hizmet (Open 24 Hours / 7 Days)",
+    "tagline_tr": "Körfezin Kıyısında Lüks Deniz Esintisi & Butik Lezzetler",
+    "tagline_en": "Elevated Seaside Moments & Artisanal Dining on the Gulf of İzmit",
+    "concept": "Awwwards Site-of-the-Day tier luxury seaside destination merging Mediterranean architectural calm, deep Anatolian hospitality warmth, and European haute-café precision."
+  },
+  "emotional_archetype": "ARCHETYPE 5: LUXURY & MEDITERRANEAN COASTAL CALM (Cinematic, Deep Navy, Warm Antique Gold, Velvet Grain, Architectural Negative Space)",
+  "color_palette": {
+    "background_dark": "#070D18",
+    "background_navy": "#0F172A",
+    "surface_navy_light": "#1E293B",
+    "surface_glass": "rgba(15, 23, 42, 0.72)",
+    "primary_gold": "#D4AF37",
+    "primary_gold_hover": "#E6C665",
+    "accent_gold_subtle": "#8B7322",
+    "gold_glow": "rgba(212, 175, 55, 0.22)",
+    "text_primary": "#FFFFFF",
+    "text_secondary": "#F8FAFC",
+    "text_muted": "#94A3B8",
+    "text_warm_cream": "#F5EFEB",
+    "border_subtle": "rgba(212, 175, 55, 0.2)",
+    "border_dark": "rgba(255, 255, 255, 0.08)",
+    "status_live_green": "#10B981"
+  },
+  "typography": {
+    "font_family_heading": "'Playfair Display', 'Cormorant Garamond', serif",
+    "font_family_sans": "'Montserrat', 'Plus Jakarta Sans', sans-serif",
+    "font_family_mono": "'JetBrains Mono', monospace",
+    "h1_hero": "text-4xl sm:text-5xl lg:text-6xl font-normal tracking-tight leading-[1.08]",
+    "h2_section": "text-2xl sm:text-3xl lg:text-4xl font-normal tracking-tight leading-tight",
+    "h3_subsection": "text-xl sm:text-2xl font-medium tracking-normal",
+    "h4_card": "text-lg sm:text-xl font-medium",
+    "body_text": "text-sm sm:text-base text-slate-300 leading-relaxed",
+    "eyebrow_badge": "text-xs uppercase tracking-[0.22em] text-[#D4AF37] font-semibold"
+  },
+  "hero_carousel_images": [
+    {
+      "title": "Gulf of İzmit Sunset Terrace",
+      "subtitle": "Körfezin Büyüleyici Gün Batımı & Deniz Manzarası",
+      "url": "https://images.unsplash.com/photo-1782919850858-6d03597b3312?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NjZ8MHwxfHNlYXJjaHwxfHx3YXRlcmZyb250JTIwc3Vuc2V0JTIwY2FmZSUyMGxvdW5nZSUyMHNlYSUyMHZpZXd8ZW58MHx8fHwxNzkyMjM4MDEwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Sekapark seaside golden hour lounge dining overlooking sea"
+    },
+    {
+      "title": "Artisanal Coffee & Master Baristas",
+      "subtitle": "Özel Kavrum Çekirdekler ve Nitelikli Latte Sanatı",
+      "url": "https://images.unsplash.com/photo-1503240778100-fd245e17a273?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzV8MHwxfHNlYXJjaHwzfHxiYXJpc3RhJTIwbGF0dGUlMjBhcnQlMjBjb2ZmZWUlMjBjYWZlfGVufDB8fHx8MTc5MjIzODAxMHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Specialty latte art on wooden table at SECAFE"
+    },
+    {
+      "title": "Gourmet Serpme Kahvaltı",
+      "subtitle": "Ege & Anadolu Lezzetleriyle Zenginleşen Türk Kahvaltısı",
+      "url": "https://images.pexels.com/photos/9491135/pexels-photo-9491135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "alt": "Full luxury Turkish breakfast spread with artisanal cheeses and olives"
+    },
+    {
+      "title": "Twilight Lounge & Live Music",
+      "subtitle": "Hafta Sonu Canlı Akustik Performansları & Gece Keyfi",
+      "url": "https://images.unsplash.com/photo-1770703674752-70e32b600894?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NjZ8MHwxfHNlYXJjaHwyfHx3YXRlcmZyb250JTIwc3Vuc2V0JTIwY2FmZSUyMGxvdW5nZSUyMHNlYSUyMHZpZXd8ZW58MHx8fHwxNzkyMjM4MDEwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Twilight terrace view of Gulf of Izmit Sekapark"
+    }
+  ],
+  "experience_bento_assets": {
+    "artisanal_coffee": "https://images.pexels.com/photos/34255748/pexels-photo-34255748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "gourmet_breakfast": "https://images.pexels.com/photos/37206732/pexels-photo-37206732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "seaside_ambience": "https://images.unsplash.com/photo-1784391169939-3927f589263b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NjZ8MHwxfHNlYXJjaHwzfHx3YXRlcmZyb250JTIwc3Vuc2V0JTIwY2FmZSUyMGxvdW5nZSUyMHNlYSUyMHZpZXd8ZW58MHx8fHwxNzkyMjM4MDEwfDA&ixlib=rb-4.1.0&q=85",
+    "barista_action": "https://images.unsplash.com/photo-1579265898841-79c7890d69cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzV8MHwxfHNlYXJjaHwyfHxiYXJpc3RhJTIwbGF0dGUlMjBhcnQlMjBjb2ZmZWUlMjBjYWZlfGVufDB8fHx8MTc5MjIzODAxMHww&ixlib=rb-4.1.0&q=85"
+  },
+  "menu_categories": [
+    {
+      "id": "breakfast",
+      "label_tr": "Gourmet Kahvaltı",
+      "label_en": "Breakfast & Brunch",
+      "items": [
+        {
+          "name_tr": "SECAFE Serpme Kral Kahvaltısı",
+          "name_en": "Imperial Turkish Breakfast Spread",
+          "desc_tr": "Ezine peyniri, Kars gravyeri, petek bal-kaymak, sucuklu menemen, sıcacık pişi ve sınırsız demlik çay.",
+          "desc_en": "Aged artisanal cheeses, honeycomb clotted cream, skillet spicy menemen, warm Turkish donuts & free-flowing black tea.",
+          "price": "₺680",
+          "badge": "Signature",
+          "tag": "2 Kişilik"
+        },
+        {
+          "name_tr": "Avokado & Poşe Yumurta Ekşi Mayalı",
+          "name_en": "Truffle Sourdough Avocado Poached Eggs",
+          "desc_tr": "Sekapark fırınından ekşi mayalı ekmek, ezilmiş avokado, organik poşe yumurta ve trüf yağı damlaları.",
+          "desc_en": "Artisanal toasted sourdough, crushed Haas avocado, organic poached eggs, microgreens, truffle drops.",
+          "price": "₺340",
+          "badge": "Chef Choice",
+          "tag": "Sağlıklı"
+        },
+        {
+          "name_tr": "Geleneksel Güveçte Menemen",
+          "name_en": "Traditional Clay-Pot Menemen",
+          "desc_tr": "Köy yumurtası, sulu Çanakkale domatesi, tatlı köy biberi ve bol tereyağ.",
+          "desc_en": "Farm-fresh eggs softly scrambled with vine tomatoes, sweet green peppers and clarified butter.",
+          "price": "₺260",
+          "badge": "Klasik",
+          "tag": "Sıcak"
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "label_tr": "Nitelikli Kahve & İçecek",
+      "label_en": "Signature Coffee & Beverages",
+      "items": [
+        {
+          "name_tr": "Altın Tozlu Kadife Karamel Latte",
+          "name_en": "Golden Velvet Caramel Latte",
+          "desc_tr": "Etiyopya Yirgacheffe espresso, ev yapımı tuzlu karamel şurubu, mikrokremalı yulaf sütü ve 24k yenilebilir altın tozu dokunuşu.",
+          "desc_en": "Single origin Ethiopian espresso, handcrafted sea-salt caramel, micro-textured oat milk & edible gold dust.",
+          "price": "₺220",
+          "badge": "Award Winning",
+          "tag": "Sıcak/Soğuk"
+        },
+        {
+          "name_tr": "Körfez Esintisi Soğuk Demleme (Cold Brew)",
+          "name_en": "Gulf Breeze Signature Cold Brew",
+          "desc_tr": "20 saat soğuk damlatma ile demlenen Guatemala çekirdekleri, narenciye tonları ve biberiye tütsüsü.",
+          "desc_en": "20-hour Kyoto slow-drip Guatemala coffee with citrus notes, dried orange slice and smoked rosemary.",
+          "price": "₺195",
+          "badge": "House Special",
+          "tag": "Soğuk"
+        },
+        {
+          "name_tr": "Geleneksel Közde Türk Kahvesi & Lokum",
+          "name_en": "Ember-Brewed Turkish Coffee & Delight",
+          "desc_tr": "Bakır cezvede közde yavaş pişirilen taze çekilmiş Türk kahvesi, güllü Hacı Bekir lokumu ve damla sakızlı su.",
+          "desc_en": "Slow-brewed over hot sand in vintage copper ibrik, served with authentic rose Turkish delight and mastic water.",
+          "price": "₺140",
+          "badge": "Geleneksel",
+          "tag": "Ritüel"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "label_tr": "Tatlı & Butik Waffle",
+      "label_en": "Artisanal Desserts & Waffles",
+      "items": [
+        {
+          "name_tr": "Belçika İncisi Özel Çikolatalı Waffle",
+          "name_en": "Grand Belgian Waterfront Waffle",
+          "desc_tr": "Gevrek çıtır Belçika waffle hamuru, eritilmiş Callebaut çikolata, taze çilek, muz, böğürtlen ve Antep fıstığı krokan.",
+          "desc_en": "Crisp liege waffle, molten Belgian dark & milk chocolate, wild berries, banana slices and roasted Antep pistachio dust.",
+          "price": "₺290",
+          "badge": "Most Popular",
+          "tag": "Favori"
+        },
+        {
+          "name_tr": "San Sebastian Cheesecake & Sıcak Çikolata Sosu",
+          "name_en": "Burnt San Sebastian Cheesecake",
+          "desc_tr": "İpeksi akışkan iç dolgu, karamelize yanık kabuk ve yanında masada dökülen sıcak Belçika çikolatası.",
+          "desc_en": "Silky creamy center, caramelized exterior, drenched with molten warm chocolate tableside.",
+          "price": "₺270",
+          "badge": "Chef Special",
+          "tag": "İmza"
+        },
+        {
+          "name_tr": "Fırınlanmış Tereyağlı Gurme Kumpir",
+          "name_en": "Gourmet Sekapark Baked Potato (Kumpir)",
+          "desc_tr": "Dev fırınlanmış patates, tuzlu köy tereyağı, kaşar peyniri, sosis, mısır, Rus salatası ve özel mezelerle harmanlanmış.",
+          "desc_en": "Giant oven-baked potato whipped with pure butter, aged kashar, spiced sausages, sweetcorn and gourmet toppings.",
+          "price": "₺260",
+          "badge": "Sekapark Klasik",
+          "tag": "Doyurucu"
+        }
+      ]
+    },
+    {
+      "id": "lounge",
+      "label_tr": "Lounge & Atıştırmalık",
+      "label_en": "Lounge Snacks & Savories",
+      "items": [
+        {
+          "name_tr": "Gurme Peynir & Şarküteri Tabağı",
+          "name_en": "Sunset Artisan Cheese & Charcuterie Board",
+          "desc_tr": "Kars gravyeri, tütsülenmiş Çerkes peyniri, gouda, ceviz, kuru incir, taze üzüm ve zeytin ezmeli krakerler.",
+          "desc_en": "Selection of aged local and imported cheeses, smoked cuts, walnuts, dried figs, grapes and artisanal crackers.",
+          "price": "₺480",
+          "badge": "Lounge",
+          "tag": "Paylaşımlık"
+        },
+        {
+          "name_tr": "Çıtır Trüflü Patates & Parmesan",
+          "name_en": "Truffle Parmesan Hand-Cut Fries",
+          "desc_tr": "Taze el kesimi çıtır patates, beyaz trüf yağı, rendelenmiş 24 aylık parmesan ve ev yapımı trüflü mayonez.",
+          "desc_en": "Hand-cut golden fries tossed with white truffle oil, 24-month aged parmesan and house garlic aioli.",
+          "price": "₺210",
+          "badge": "Snack",
+          "tag": "Sıcak"
+        },
+        {
+          "name_tr": "Tavuklu & Avokadolu Club Sandviç",
+          "name_en": "Waterfront Grilled Chicken Club",
+          "desc_tr": "Marine edilmiş ızgara tavuk göğsü, dana bacon, çedar peyniri, taze marul, domates ve trüflü patates eşliğinde.",
+          "desc_en": "Tender marinated chicken breast, beef bacon, melted cheddar, crisp lettuce, heirloom tomato on artisan brioche.",
+          "price": "₺360",
+          "badge": "Doyurucu",
+          "tag": "Öğle & Akşam"
+        }
+      ]
+    }
+  ],
+  "live_music_schedule": [
+    {
+      "day_tr": "Cuma Akşamı",
+      "day_en": "Friday Evening",
+      "time": "20:30 - 23:30",
+      "artist": "Emre & Deniz Akustik",
+      "genre_tr": "Akustik Pop & Caz Standartları",
+      "genre_en": "Acoustic Pop & Jazz Standards",
+      "tag_tr": "Deniz Terası Sahnesi",
+      "tag_en": "Seaside Terrace Stage"
+    },
+    {
+      "day_tr": "Cumartesi Akşamı",
+      "day_en": "Saturday Gala",
+      "time": "21:00 - 00:00",
+      "artist": "Körfez Quartet",
+      "genre_tr": "Modern Bossa Nova & Lounge Melodileri",
+      "genre_en": "Modern Bossa Nova & Lounge Grooves",
+      "tag_tr": "VIP Lounge Sahnesi",
+      "tag_en": "VIP Lounge Stage"
+    },
+    {
+      "day_tr": "Pazar Gün Batımı",
+      "day_en": "Sunday Sunset",
+      "time": "18:00 - 21:00",
+      "artist": "Saxophone & Chill Lounge Set",
+      "genre_tr": "Canlı Saksafon & Sunset Chillout",
+      "genre_en": "Live Saxophone & Sunset Chillout",
+      "tag_tr": "Açık Hava Gün Batımı",
+      "tag_en": "Open Air Sunset"
+    }
+  ],
+  "customer_reviews": [
+    {
+      "name": "Caner Öztürk",
+      "rating": 5,
+      "date": "2 hafta önce",
+      "source": "Google Local Guide (Level 7)",
+      "comment_tr": "Sekapark'ın açık ara en elit ve huzurlu mekânı. Gün batımında terasta oturup denize karşı kahve yudumlamak inanılmaz bir deneyim. Canlı müzik kalitesi ve personelin nezaketi kusursuz.",
+      "comment_en": "By far the most elite and tranquil venue in Sekapark. Watching the sunset with artisanal coffee right on the water is magical. Flawless live music and attentive staff."
+    },
+    {
+      "name": "Selin & Mert Kaya",
+      "rating": 5,
+      "date": "1 ay önce",
+      "source": "Google Review",
+      "comment_tr": "Hafta sonu serpme kahvaltısı için İzmit'e geldik. Peynir çeşitleri, sıcacık pişisi ve Körfez manzarası olağanüstüydü. 24 saat açık olması da gece geç saatlerde kahve içmek için harika bir avantaj.",
+      "comment_en": "Traveled here for the gourmet Turkish breakfast. Cheeses, fresh donuts and the sweeping Gulf view were spectacular. Open 24/7 is a huge plus for late night coffee."
+    },
+    {
+      "name": "David Harrison",
+      "rating": 5,
+      "date": "3 hafta önce",
+      "source": "TripAdvisor Verified",
+      "comment_tr": "Business trip to Kocaeli ended with a stunning dinner here. The waffles, espresso quality and the twilight sea lights are world-class. Highly recommended!",
+      "comment_en": "Ended my business trip to Kocaeli with a stunning evening here. The Belgian waffle, single origin espresso and twilight sea lights are world-class."
+    }
+  ],
+  "marquee_items": [
+    "SECAFE SEKAPARK",
+    "GULF OF İZMİT WATERFRONT",
+    "OPEN 24/7 ALL DAYS",
+    "ARTISANAL SPECIALTY COFFEE",
+    "SERPME GOURMET KAHVALTI",
+    "LIVE ACOUSTIC NIGHTS",
+    "BELGIAN WAFFLES & KUMPIR",
+    "VIP SEA-VIEW TERRACE",
+    "KOCAELİ LUXURY DESTINATION"
+  ],
+  "layout_architecture": {
+    "header": {
+      "type": "Crystal Glass sticky floating bar",
+      "classes": "fixed top-0 left-0 right-0 z-50 backdrop-blur-2xl bg-[#070D18]/85 border-b border-[#D4AF37]/20 px-6 py-4 transition-all duration-300",
+      "features": [
+        "Brand Logo: 'SECAFE' in Playfair serif with 'SEKAPARK' in gold tracking mono",
+        "Language Switcher: TR / EN toggle button with state persistence",
+        "Navigation Links: [Deneyim / Experience, Menü / Menu, Canlı Müzik / Music, Rezervasyon / Book, Konum / Location]",
+        "Status Indicator: Pulsing Emerald Dot '7/24 AÇIK / OPEN 24/7'",
+        "CTA Button: 'Masa Ayırt / Reserve Table' (Gold border, luminous hover)",
+        "Mobile Drawer: Full-screen luxury accordion sheet with fast call trigger"
+      ]
+    },
+    "hero_section": {
+      "type": "Full-viewport kinetic storytelling stage with image transition, live badge, and masked typography",
+      "height": "min-h-[100vh]",
+      "components": [
+        "Auto-advancing 6s carousel with smooth crossfade and ken-burns zoom",
+        "Dark Navy to transparent gradient vignette overlay (bg-gradient-to-t from-[#070D18] via-[#070D18]/50 to-[#070D18]/30) maintaining imagery vibrancy",
+        "Gold Eyebrow Badge: '✦ KOCAELİ'NİN EN SEÇKİN SAHİL LOUNGE'U • GULF OF İZMİT'",
+        "Kinetic H1 Title: 'Körfezin Kıyısında / Büyüleyici Deniz Anları & Butik Mutfak'",
+        "Subtitle: 'Sekapark sahilinde gün batımının kızıla boyadığı sularda, nitelikli kahve ve canlı müzik ritmiyle buluşun.'",
+        "Action Buttons: Primary Luminous Gold CTA ('Masa Ayırt / Book VIP Table') + Outlined Glass CTA ('Menüyü Keşfet / Explore Menu') + Fast Phone Trigger ('Hemen Ara / Call 0530 642 11 85')",
+        "Live Info Strip: 24/7 Kesintisiz • Canlı Akustik Müzik • Deniz Kenarı Teras • Otopark ve Vale"
+      ]
+    },
+    "editorial_marquee": {
+      "type": "Single slow-drifting luxury brass ribbon",
+      "styling": "border-y border-[#D4AF37]/25 bg-[#0F172A]/90 py-4 overflow-hidden tracking-[0.28em] text-xs uppercase text-[#D4AF37]"
+    },
+    "experience_bento": {
+      "type": "Asymmetrical 12-column architectural Bento Grid with clipped frames and gold spotlights",
+      "items": [
+        {
+          "col_span": "md:col-span-8",
+          "title": "Nitelikli Kahve & Latte Sanatı",
+          "aspect": "Wide Hero feature with barista video/photo and aroma flavor notes"
+        },
+        {
+          "col_span": "md:col-span-4",
+          "title": "Körfez Manzaralı Gün Batımı",
+          "aspect": "Tall panoramic sea frame with golden hour atmospheric lighting"
+        },
+        {
+          "col_span": "md:col-span-4",
+          "title": "Gurme Serpme Kahvaltı",
+          "aspect": "Square appetizing spread card with farm-to-table badges"
+        },
+        {
+          "col_span": "md:col-span-4",
+          "title": "Butik Waffle & Kumpir",
+          "aspect": "Square dessert delicacy card with molten chocolate spotlight"
+        },
+        {
+          "col_span": "md:col-span-4",
+          "title": "Hafta Sonu Canlı Müzik",
+          "aspect": "Acoustic night club aura with stage lights and calendar link"
+        }
+      ]
+    },
+    "interactive_menu": {
+      "type": "Filterable luxury digital menu with instant search and category tabs",
+      "features": [
+        "Category selector pills (Kahvaltı, Kahve, Waffle & Tatlı, Lounge & Atıştırmalık)",
+        "Live keyword search input ('Filtrele veya ara: menemen, latte, waffle...')",
+        "Price tags with gold typography and dietary tags (Signature, Sıcak, Chef Special)",
+        "Direct 'Sipariş / Rezervasyon Notuna Ekle' interaction"
+      ]
+    },
+    "reservation_and_music": {
+      "type": "Dual-column luxury lounge VIP booking and Live performance schedule",
+      "booking_features": [
+        "Seat Zone Selector: Deniz Kenarı Teras (Waterfront Deck), VIP Lounge (İç Mekân), Gün Batımı Bahçesi (Sunset Garden)",
+        "Date & Time Selector with 24-hour slots",
+        "Guest count stepper (1 to 12+ Kişi)",
+        "Instant confirmation simulation with WhatsApp & SMS reservation direct link to 0530 642 11 85"
+      ],
+      "music_features": [
+        "Weekly concert cards with date badges, artist names, music styles, and 'Masa Ayırt' CTA"
+      ]
+    },
+    "location_and_maps": {
+      "type": "Interactive map modal and embedded interactive Sekapark waterfront coordinates",
+      "details": {
+        "address": "Kozluk, Oramiral Salim Dervişoğlu Cd. No:24, Sekapark, 41200 İzmit/Kocaeli",
+        "coordinates": "40.7584° N, 29.9142° E",
+        "directions_link": "https://maps.google.com/?q=SECAFE+SEKAPARK+Izmit+Kocaeli",
+        "amenities": ["24/7 Açık", "Deniz Manzaralı Teras", "Sekapark Yürüyüş Yolu Üzerinde", "Ücretsiz Vale & Otopark", "Wi-Fi & Çalışma Alanı", "Engelsiz Giriş"]
+      }
+    },
+    "testimonials_press": {
+      "type": "5-star curated testimonial slider with Google Local Guide verified badges",
+      "rating_score": "4.9 / 5.0 (1,240+ Google Yorumu)"
+    },
+    "footer": {
+      "type": "High-contrast editorial dark slate & gold footer with big typography",
+      "elements": [
+        "Massive brand statement: 'SECAFE SEKAPARK'",
+        "Working hours: 'Pazartesi - Pazar: 24 Saat Açık / Open 24/7'",
+        "Direct reservation call button: +90 530 642 11 85",
+        "Social links: Instagram, Facebook, TripAdvisor, Google Maps",
+        "Copyright and bilingual credits"
+      ]
+    }
+  },
+  "motion_spec": {
+    "smooth_scroll": "Lenis momentum scroll behavior implemented via CSS smooth scrolling and Framer Motion spring dampening",
+    "page_transitions": "Staggered fade-up entrances with cubic-bezier(0.16, 1, 0.3, 1)",
+    "hover_effects": "Card border shimmer, subtle scale [1.02], button inner gold flare",
+    "performance": "GPU-accelerated transforms, zero layout shifts, optimized responsive images"
+  },
+  "universal_guidelines_for_main_agent": [
+    "Strictly follow dark luxury theme (#070D18 base, #0F172A surfaces, #D4AF37 gold accents).",
+    "Never use raw transparent backgrounds for dropdowns, modals, or the sticky nav bar. Use solid dark with heavy backdrop blur (rgba(7, 13, 24, 0.88) + backdrop-blur-xl).",
+    "Ensure both Turkish (TR) and English (EN) languages are fully selectable and instantly switch all texts, labels, badges, and menus without page reload.",
+    "Include data-testid on every interactive element (e.g. data-testid='reserve-table-hero-btn', data-testid='menu-tab-breakfast', data-testid='language-toggle-btn').",
+    "Keep phone number '0530 642 11 85' as real interactive 'tel:' and 'https://wa.me/905306421185' links for effortless mobile conversion.",
+    "Include working reservation form that validates inputs and presents an elegant confirmation toast/modal with booking ID."
+  ]
+}
